@@ -1,4 +1,4 @@
-**Open to all. No need to claim. No submission will be considered after 9th April 5.30pm.**
+**Open to all. No need to claim. No submission will be considered after 10th April 5.30pm.**
 
 It's time to design the main screens of the local event discovery app - An app that shows users nearby events and activities based on their location and interests.
 
